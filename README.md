@@ -1,7 +1,11 @@
 # Portfolio
 Some projects I worked with on the last 2 years as FrontEnd Developer into Guidance, Zup and some freelancer jobs.
 
-## Sobre Nós (about us) - Revista HSM (2020 - actual)
+## ZUP Innovation (2021)
+
+Currently on ZUP we are building a new Dev Solution that has not being released yet, it is on development mode by now, but we are working with React echosystem integranting Microfrontends using Webpack Module Federation, internal Design System, when needed using Styled Components.
+
+## Sobre Nós (about us) - Revista HSM (2020/2021)
 
 Well, at Guidance Experts I was working mainly for Revista HSM project. Creating components, new features and maintaining the site. For a small view I separated the landing page ['Sobre Nós'](https://www.revistahsm.com.br/sobre-nos) that I built from zero following the design on Figma. But there is a little piece of me in most of the pages and features around all the site platform for Revista HSM. Feel free to navigate for the website https://www.revistahsm.com.br/sobre-nos
 
