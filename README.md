@@ -1,5 +1,5 @@
 # Portfolio
-Some projects I worked with on the last 2 years as FrontEnd Developer into Guidance, Zup and some freelancer jobs.
+Some projects I worked with on the last 2 years as FrontEnd Developer at Guidance, Zup and some freelancer jobs.
 
 ## ZUP Innovation (2021)
 
@@ -7,7 +7,7 @@ Currently on ZUP we are building a new Dev Solution that has not being released 
 
 ## Sobre Nós (about us) - Revista HSM (2020/2021)
 
-Well, at Guidance Experts I was working mainly for Revista HSM project. Creating components, new features and maintaining the site. For a small view I separated the landing page ['Sobre Nós'](https://www.revistahsm.com.br/sobre-nos) that I built from zero following the design on Figma. But there is a little piece of me in most of the pages and features around all the site platform for Revista HSM. Feel free to navigate for the website https://www.revistahsm.com.br/sobre-nos
+Well, at Guidance Experts I was working mainly for Revista HSM project. Creating components, new features and maintaining the website.(https://www.revistahsm.com.br). 
 
 On this project we were using NextJs and TailwindCSS to created all components as we wanted them. No UI lib used for components.
 
@@ -24,7 +24,7 @@ At Guidance last year I had the chance to work on some features for [BookOffice]
 
 ![image](https://user-images.githubusercontent.com/51388356/110219539-91bdce00-7e9e-11eb-814f-b3396e9bb9fb.png)
 
-On this project we used ReactJs, ChakraUI combinated with Styled System.
+On this project we used ReactJs and ChakraUI combinated with Styled System.
 
 
 ## PROPS - Programa de Projeto Sustentável (2020)
@@ -46,8 +46,6 @@ This project was about giving life to the theme with HTML and CSS (designed for 
 
 It is now running live at https://cuducos.me/
 Check it out!
-
-It was my first HTML/CSS freela, so now I see a lot of things I could have been done better (Looking forward to talk to Cuducos so we can update it and release a new version soon ;))
 
 ![image](https://user-images.githubusercontent.com/51388356/110218922-173f7f00-7e9b-11eb-8b2d-ef29c3e1c909.png)
 
