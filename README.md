@@ -3,7 +3,7 @@ Some projects I worked with on the last 2 years as FrontEnd Developer at Guidanc
 
 ## ZUP Innovation (2021)
 
-Currently on ZUP we are building a new Dev Solution that has not being released yet, it is on development mode by now, but we are working with React echosystem integranting Microfrontends using Webpack Module Federation, internal Design System, when needed using Styled Components.
+At ZUP we were building a new Dev Solution that has not being released yet, at the time it was on development mode, but we were working with React echosystem integranting Microfrontends using Webpack Module Federation, internal Design System, when needed using Styled Components.
 
 ## Sobre Nós (about us) - Revista HSM (2020/2021)
 
