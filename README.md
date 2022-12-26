@@ -1,5 +1,9 @@
 # Portfolio
-Some projects I worked with on the last 2 years as FrontEnd Developer at Guidance, Zup and some freelancer jobs.
+Some projects I worked with on the last 3 years as FrontEnd Developer.
+
+## Impulso Network (2021 - present)
+
+Working inside a fintech project. Our team is directly working with Marketing and Acquisition teams to develop Creditas' website (https://www.creditas.com/). 
 
 ## ZUP Innovation (2021)
 
